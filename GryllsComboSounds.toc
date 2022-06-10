@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cffff8000Grylls|rComboSounds
+## Author: Grylls
+## Notes: Plays sounds on combo point gain 
+## Version: 2
+
+GryllsComboSounds.lua
