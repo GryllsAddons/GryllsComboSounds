@@ -2,6 +2,6 @@
 ## Title: |cffff8000Grylls|rComboSounds
 ## Author: Grylls
 ## Notes: Plays sounds on combo point gain 
-## Version: 2
+## Version: 3
 
 GryllsComboSounds.lua
